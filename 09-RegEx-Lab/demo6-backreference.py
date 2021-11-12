@@ -1,0 +1,1 @@
+# \3 - znachi pravi obratna referenciq kum 3ta zatvorena v () grupa kato patern
